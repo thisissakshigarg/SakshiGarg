@@ -8,11 +8,9 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Sakshi Garg</h1>
-
-<h3 align="center">
+<h1>
 MBA Graduate passionate about Digital Marketing, Performance Marketing & Business Analytics.
-</h3>
+</h1>
 
 <p align="center">
 I enjoy solving marketing challenges through data, creativity, and continuous learning.
