@@ -2,7 +2,7 @@
 <h3 align="center">Digital Marketing | Marketing Analytics | Power BI | SEO | Performance Marketing</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=MBA+Graduate;Digital+Marketing+Professional;SEO+%7C+Google+Ads+%7C+Meta+Ads;Power+BI+%7C+Tableau+%7C+Python;Marketing+Analytics+Enthusiast" />
+    <img src="./pp.png" width="250">
 </p>
 
 ---
