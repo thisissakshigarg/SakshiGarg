@@ -26,35 +26,14 @@ I love working on
 
 # 🚀 Skills
 
-### Digital Marketing
+#### 📈 Digital Marketing
+> `SEO` • `Keyword Research` • `Google Ads` • `Meta Ads` • `Performance Marketing` • `Email Marketing` • `Google Analytics` • `WordPress` • `Shopify`
 
-- SEO
-- Keyword Research
-- Google Ads
-- Meta Ads
-- Performance Marketing
-- Email Marketing
-- Google Analytics
-- WordPress
-- Shopify
+#### 📊 Analytics
+> `Power BI` • `Tableau` • `Python` • `Advanced Excel` • `Data Visualization` • `DAX` • `Power Query`
 
-### Analytics
-
-- Power BI
-- Tableau
-- Python
-- Advanced Excel
-- Data Visualization
-- DAX
-- Power Query
-
-### Design
-
-- Figma
-- Canva
-- Responsive Web Design
-
----
+#### 🎨 Design
+> `Figma` • `Canva` • `Responsive Web Design`
 
 # 💼 Experience
 
