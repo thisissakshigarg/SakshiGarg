@@ -4,9 +4,6 @@
 Curious Marketer • Lifelong Learner • Growth Focused
 </h3>
 
-<p 
-</p>
-
 ---
 
 # 👩‍💻 About Me
