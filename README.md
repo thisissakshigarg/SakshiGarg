@@ -1,86 +1,90 @@
-<div style="font-family: 'Times New Roman', serif;">
-
 <h1 align="center">Hi 👋, I'm Sakshi Garg</h1>
-<h3 align="center">Curious Marketer. Lifelong Learner. Growth Focused.</h3>
+
+<h3 align="center">
+Curious Marketer • Lifelong Learner • Growth Focused
+</h3>
+
 <p align="center">
-    <img src="./pp.png" width="250">
+  <img src="./pp.png" width="250" alt="Sakshi Garg">
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-<p>
-I'm an MBA graduate with a passion for <b>Digital Marketing</b>, <b>Performance Marketing</b>, and <b>Business Analytics</b>. I love transforming data into actionable marketing strategies, optimizing digital experiences, and continuously learning new technologies to create meaningful business impact.
-</p>
+I'm an MBA graduate passionate about **Digital Marketing**, **Performance Marketing**, and **Business Analytics**. I enjoy transforming data into actionable marketing strategies, optimizing digital experiences, and continuously learning new technologies to create meaningful business impact.
+
+---
 
 # 🚀 Skills
 
-#### 📈 Digital Marketing
-> `SEO` • `Keyword Research` • `Google Ads` • `Meta Ads` • `Performance Marketing` • `Email Marketing` • `Google Analytics` • `WordPress` • `Shopify`
+### 📈 Digital Marketing
 
-#### 📊 Analytics
-> `Power BI` • `Tableau` • `Python` • `Advanced Excel` • `Data Visualization` • `DAX` • `Power Query`
+`SEO` • `Keyword Research` • `Google Ads` • `Meta Ads` • `Performance Marketing` • `Email Marketing` • `Google Analytics` • `WordPress` • `Shopify`
 
-#### 🎨 Design
-> `Figma` • `Canva` • `Responsive Web Design`
+### 📊 Analytics
+
+`Power BI` • `Tableau` • `Python` • `Advanced Excel` • `Data Visualization` • `DAX` • `Power Query`
+
+### 🎨 Design
+
+`Figma` • `Canva` • `Responsive Web Design`
+
+---
 
 # 💼 Experience
 
 ## Digital Marketing Intern
+
 **Aroma Infotech**
 
 - Developed responsive WordPress websites
 - Executed On-Page SEO
-- Keyword Research
-- Performance Marketing Analysis
-- Conversion Optimization
-- Google Analytics Reporting
+- Conducted Keyword Research
+- Assisted in Performance Marketing Analysis
+- Improved Conversion Optimization
+- Prepared Google Analytics Reports
 
----
+### Marketing Intern
 
-## Marketing Intern
 **Plasmid**
 
-- Marketing Campaign Planning
-- Competitor Research
-- Social Media Content
-- Performance Reports
-- Market Research
+- Planned Marketing Campaigns
+- Conducted Competitor Research
+- Created Social Media Content
+- Generated Performance Reports
+- Performed Market Research
 
 ---
 
-# 📂 Featured Projects
+# 📂 Featured Project
 
 ## 📊 Power BI Sales Dashboard
 
-Interactive dashboard built using Power BI to analyze:
+Interactive dashboard built using **Power BI** to analyze:
 
-✔ Revenue
-
-✔ Profit
-
-✔ Customer Trends
-
-✔ Sales KPIs
-
-✔ Dynamic Filters
+- Revenue
+- Profit
+- Customer Trends
+- Sales KPIs
+- Dynamic Filters
 
 **Tools Used**
 
-Power BI • Power Query • DAX • Excel
+`Power BI` • `Power Query` • `DAX` • `Excel`
 
-🔗 Repository:
-https://github.com/thisissakshigarg/Power-BI-Sales-Dashboard
+🔗 **Repository**
+
+[Power BI Sales Dashboard](https://github.com/thisissakshigarg/Power-BI-Sales-Dashboard)
 
 ---
 
 # 🏆 Certifications
 
-- Digital Marketing – Swayam
-- Professional Digital Marketing – Aroma Institute
-- AI & Digital Marketing Trends – LinkedIn Learning
-- Digital Productivity with AI – UNICEF
+- Digital Marketing — SWAYAM
+- Professional Digital Marketing — Aroma Institute
+- AI & Digital Marketing Trends — LinkedIn Learning
+- Digital Productivity with AI — UNICEF
 - Tableau & Power BI
 - Advanced Excel for Business Intelligence
 
@@ -88,12 +92,11 @@ https://github.com/thisissakshigarg/Power-BI-Sales-Dashboard
 
 # 🎓 Education
 
-### MBA
-Marketing & Business Analytics
+## MBA
+
+**Marketing & Business Analytics**
 
 Panipat Institute of Engineering & Technology
-
----
 
 ### B.Com
 
@@ -101,19 +104,22 @@ Kurukshetra University
 
 ---
 
-<h1>🌐 Connect With Me</h1>
+# 🌐 Connect With Me
 
-<p>📧 <b>Email:</b> <a href="mailto:thisissakshigarg@gmail.com">thisissakshigarg@gmail.com</a></p>
+📧 **Email**  
+thisissakshigarg@gmail.com
 
-<p>📱 <b>Phone:</b> <a href="tel:+919729723050">+91 9729723050</a></p>
+📱 **Phone**  
++91 9729723050
 
-<p>💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/thisissakshigarg" target="_blank">linkedin.com/in/thisissakshigarg</a></p>
+💼 **LinkedIn**  
+https://linkedin.com/in/thisissakshigarg
 
-<p>📸 <b>Instagram:</b> <a href="https://instagram.com/thisissakshigarg" target="_blank">@thisissakshigarg</a></p>
+📸 **Instagram**  
+https://instagram.com/thisissakshigarg
+
 ---
 
-### Quote
+# 💭 Quote
 
-> "Marketing is no longer about the stuff you make, but the stories you tell through data."
->
-> </div>
+> *"Marketing is no longer about the stuff you make, but the stories you tell through data."*
