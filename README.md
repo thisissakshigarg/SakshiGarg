@@ -132,48 +132,15 @@ Kurukshetra University
 
 ---
 
-# 📈 GitHub Stats
+<h1>🌐 Connect With Me</h1>
 
-<p align="center">
+<p>📧 <b>Email:</b> <a href="mailto:thisissakshigarg@gmail.com">thisissakshigarg@gmail.com</a></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=thisissakshigarg&show_icons=true&theme=tokyonight"/>
+<p>📱 <b>Phone:</b> <a href="tel:+919729723050">+91 9729723050</a></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thisissakshigarg&theme=tokyonight"/>
+<p>💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/thisissakshigarg" target="_blank">linkedin.com/in/thisissakshigarg</a></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisissakshigarg&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-📧 Email
-
-thisissakshigarg@gmail.com
-
-💼 LinkedIn
-
-https://linkedin.com/in/thisissakshigarg
-
-
----
-
-# 💡 Currently Learning
-
-- Marketing Analytics
-- Google Tag Manager
-- GA4
-- Advanced SEO
-- Performance Marketing
-- AI in Marketing
-
----
-
-# 📊 Visitor Count
-
-![](https://komarev.com/ghpvc/?username=thisissakshigarg&label=Profile+Views&color=0e75b6&style=flat)
-
+<p>📸 <b>Instagram:</b> <a href="https://instagram.com/thisissakshigarg" target="_blank">@thisissakshigarg</a></p>
 ---
 
 ### Quote
