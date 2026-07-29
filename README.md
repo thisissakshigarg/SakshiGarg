@@ -8,22 +8,19 @@
 
 ---
 
-# 👩‍💻 About Me
+<h1 align="center">Hi 👋, I'm Sakshi Garg</h1>
 
-I'm an MBA graduate specializing in **Marketing & Business Analytics** with internship experience in **Digital Marketing** and **Performance Marketing**.
+<h3 align="center">
+MBA Graduate passionate about Digital Marketing, Performance Marketing & Business Analytics.
+</h3>
 
-I enjoy combining creativity with data to build marketing strategies that improve traffic, engagement, and business growth.
+<p align="center">
+I enjoy solving marketing challenges through data, creativity, and continuous learning.
+</p>
 
-I love working on
-
-- 📈 Marketing Analytics
-- 🚀 Performance Marketing
-- 🔍 SEO
-- 📊 Power BI Dashboards
-- 🌐 WordPress Websites
-- 🎨 UI Design using Figma
-
----
+<p align="center">
+    <img src="./pp.png" width="250">
+</p>
 
 # 🚀 Skills
 
