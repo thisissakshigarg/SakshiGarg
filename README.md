@@ -9,12 +9,11 @@
 ---
 
 <h1>
+# About Me
+</h1><h3>
 MBA Graduate passionate about Digital Marketing, Performance Marketing & Business Analytics.
-</h1>
-
-<p align="center">
 I enjoy solving marketing challenges through data, creativity, and continuous learning.
-</p>
+</h3
 
 <p align="center">
     <img src="./pp.png" width="250">
