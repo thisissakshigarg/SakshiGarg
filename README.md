@@ -4,8 +4,7 @@
 Curious Marketer • Lifelong Learner • Growth Focused
 </h3>
 
-<p align="center">
-  <img src="./pp.png" width="250" alt="Sakshi Garg">
+<p 
 </p>
 
 ---
