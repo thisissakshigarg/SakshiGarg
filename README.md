@@ -8,15 +8,10 @@
 
 ---
 
-<h1>
-# About Me
-</h1><h3>
-MBA Graduate passionate about Digital Marketing, Performance Marketing & Business Analytics.
-I enjoy solving marketing challenges through data, creativity, and continuous learning.
-</h3
+# 👩‍💻 About Me
 
-<p align="center">
-    <img src="./pp.png" width="250">
+<p>
+I'm an MBA graduate with a passion for <b>Digital Marketing</b>, <b>Performance Marketing</b>, and <b>Business Analytics</b>. I love transforming data into actionable marketing strategies, optimizing digital experiences, and continuously learning new technologies to create meaningful business impact.
 </p>
 
 # 🚀 Skills
