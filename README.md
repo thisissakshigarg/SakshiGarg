@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sakshi Garg</h1>
-<h3 align="center">Digital Marketing | Marketing Analytics | Power BI | SEO | Performance Marketing</h3>
+<div style="font-family: 'Times New Roman', serif;">
 
+<h1 align="center">Hi 👋, I'm Sakshi Garg</h1>
+<h3 align="center">Curious Marketer. Lifelong Learner. Growth Focused.</h3>
 <p align="center">
     <img src="./pp.png" width="250">
 </p>
@@ -125,3 +126,5 @@ Kurukshetra University
 ### Quote
 
 > "Marketing is no longer about the stuff you make, but the stories you tell through data."
+>
+> </div>
