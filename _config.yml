@@ -1,8 +1,10 @@
 remote_theme: pages-themes/minimal@v0.2.0
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Sakshi Garg]
-description: [Digital Marketer- Turning data into digital growth strategies]
-<p align="center">
-  <img src="pp.png" alt="Sakshi Garg" width="220" style="border-radius:50%;">
-</p>
+  - jekyll-remote-theme
+
+title: "Sakshi Garg"
+
+description: "Digital Marketer • Turning data into digital growth strategies"
+
+logo: pp.png
