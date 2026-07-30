@@ -71,54 +71,89 @@ I'm an MBA graduate passionate about **Digital Marketing**, **Performance Market
 </p>
 
 ---
-
 # 💼 Experience
 
-## 🚀 Digital Marketing Intern
+<table>
+<tr>
 
-### Aroma Infotech
+<td width="50%" valign="top">
 
-📅 Internship
+<h2>🚀 Digital Marketing Intern</h2>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<b>📍 Aroma Infotech</b>
 
-🔹 Developed responsive WordPress websites
+<br><br>
 
-🔹 Executed On-Page SEO
+✔ Developed responsive WordPress websites
 
-🔹 Conducted Keyword Research
+<br>
 
-🔹 Assisted in Performance Marketing
+✔ Executed On-Page SEO strategies
 
-🔹 Conversion Optimization
+<br>
 
-🔹 Google Analytics Reporting
+✔ Conducted Keyword Research
 
-🔹 Improved website performance through SEO best practices
+<br>
 
----
+✔ Optimized website content for search engines
 
-## 📈 Marketing Intern
+<br>
 
-### Plasmid
+✔ Assisted in Performance Marketing campaigns
 
-📅 Internship
+<br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✔ Improved Conversion Optimization
 
-🔹 Marketing Campaign Planning
+<br>
 
-🔹 Competitor Research
+✔ Generated Google Analytics Reports
 
-🔹 Social Media Marketing
+<br>
 
-🔹 Market Research
+✔ Collaborated with the marketing team on digital campaigns
 
-🔹 Performance Reporting
+</td>
 
-🔹 Brand Promotion
+<td width="50%" valign="top">
 
-🔹 Consumer Insights
+<h2>📈 Marketing Intern</h2>
+
+<b>📍 Plasmid</b>
+
+<br><br>
+
+✔ Planned Marketing Campaigns
+
+<br>
+
+✔ Competitor Research & Market Analysis
+
+<br>
+
+✔ Social Media Content Planning
+
+<br>
+
+✔ Marketing Performance Reporting
+
+<br>
+
+✔ Consumer Research
+
+<br>
+
+✔ Brand Promotion Activities
+
+<br>
+
+✔ Assisted in Campaign Execution
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -230,98 +265,45 @@ Developed an interactive **Power BI Sales Dashboard** to transform raw sales dat
 
 # 🎓 Education
 
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎓 Master of Business Administration
-
-### Marketing & Business Analytics
+### 🎓 Master of Business Administration (MBA)
 
 🏛️ **Panipat Institute of Engineering & Technology**
 
-📍 Kurukshetra University
+📍 *Marketing & Business Analytics*
 
-📅 **2024 – 2026** 
+📅 **2024 – 2026** *(Replace with your actual years)*
+
+> **Key Focus Areas**
+>
+> • Digital Marketing
+>
+> • Marketing Analytics
+>
+> • Business Analytics
+>
+> • Consumer Behaviour
+>
+> • Predictive Analytics
 
 ---
 
-### 📚 Relevant Coursework
-
-- Digital Marketing
-- Marketing Analytics
-- Business Analytics
-- Consumer Behaviour
-- Strategic Management
-- Predictive Analytics
-- Business Intelligence
-- Data Visualization
-
----
-
-### 🛠 Skills Developed
-
-✔ Digital Marketing
-
-✔ Marketing Strategy
-
-✔ Performance Marketing
-
-✔ Business Analytics
-
-✔ Power BI
-
-✔ Data Visualization
-
-✔ Excel & Reporting
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎓 Bachelor of Commerce
+### 🎓 Bachelor of Commerce (B.Com)
 
 🏛️ **Kurukshetra University**
 
-📅 **2021 – 2024** 
+📅 **2021 – 2024** *(Replace with your actual years)*
 
----
-
-### 📚 Core Subjects
-
-- Financial Accounting
-- Business Economics
-- Business Statistics
-- Marketing Management
-- Corporate Finance
-- Income Tax
-- Human Resource Management
-
----
-
-### 💡 Key Learnings
-
-✔ Financial Analysis
-
-✔ Marketing Fundamentals
-
-✔ Business Communication
-
-✔ Problem Solving
-
-✔ Analytical Thinking
-
-✔ Team Collaboration
-
-✔ Presentation Skills
-
-</td>
-
-</tr>
-
-</table>
+> **Core Subjects**
+>
+> • Accounting
+>
+> • Finance
+>
+> • Economics
+>
+> • Marketing
+>
+> • Business Statistics
 
 ---
 
