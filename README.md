@@ -196,43 +196,33 @@ Developed an interactive **Power BI Sales Dashboard** to transform raw sales dat
 
 <p align="center">
 
-<a href="Professional Digital Marketing Enpowerment Course.jpg">
-<img src="Professional Digital Marketing Enpowerment Course.jpg" width="320" alt="Certificate 1"/>
+<a href="Professional%20Digital%20Marketing%20Empowerment%20Course.jpg">
+<img src="Professional%20Digital%20Marketing%20Empowerment%20Course.jpg" width="320" alt="Professional Digital Marketing Empowerment Course"/>
 </a>
 
-<a href="images/certificates/xyz2.jpg">
-<img src="images/certificates/xyz2.jpg" width="320" alt="Certificate 2"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="images/certificates/xyz3.jpg">
-<img src="images/certificates/xyz3.jpg" width="320" alt="Certificate 3"/>
-</a>
-
-<a href="images/certificates/xyz4.jpg">
-<img src="images/certificates/xyz4.jpg" width="320" alt="Certificate 4"/>
+<a href="Al%20%26%20Digital%20Marketing%20Trends.jpg">
+<img src="Al%20%26%20Digital%20Marketing%20Trends.jpg" width="320" alt="AI & Digital Marketing Trends"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="images/certificates/xyz5.jpg">
-<img src="images/certificates/xyz5.jpg" width="320" alt="Certificate 5"/>
+<a href="Advance%20Excel.jpg">
+<img src="Advance%20Excel.jpg" width="320" alt="Advance Excel"/>
 </a>
 
-<a href="images/certificates/xyz6.jpg">
-<img src="images/certificates/xyz6.jpg" width="320" alt="Certificate 6"/>
+<a href="Digital%20Marketing%20Course%20(Swayam).jpg">
+<img src="Digital%20Marketing%20Course%20(Swayam).jpg" width="320" alt="Digital Marketing Course (Swayam)"/>
 </a>
 
 </p>
 
 <p align="center">
 
-⭐ Click any certificate to view it in full resolution.
+<a href="Digital%20Productivity%20With%20AI.jpg">
+<img src="Digital%20Productivity%20With%20AI.jpg" width="320" alt="Digital Productivity With AI"/>
+</a>
 
 </p>
 
