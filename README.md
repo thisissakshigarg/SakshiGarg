@@ -102,17 +102,29 @@ Kurukshetra University
 
 # 🌐 Connect With Me
 
-📧 **Email**  
-thisissakshigarg@gmail.com
+<p align="center">
 
-📱 **Phone**  
-+91 9729723050
+<a href="mailto:thisissakshigarg@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 **LinkedIn**  
-https://linkedin.com/in/thisissakshigarg
+<a href="tel:+919729723050">
+<img src="https://img.shields.io/badge/Phone-%2B91%209729723050-34A853?style=for-the-badge&logo=googlemessages&logoColor=white"/>
+</a>
 
-📸 **Instagram**  
-https://instagram.com/thisissakshigarg
+</p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/thisissakshigarg" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Sakshi%20Garg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/thisissakshigarg" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@thisissakshigarg-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
