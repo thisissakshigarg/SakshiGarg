@@ -338,7 +338,6 @@ Developed an interactive **Power BI Sales Dashboard** to transform raw sales dat
 </a>
 
 </p>
-
 <p align="center">
 
 <a href="https://linkedin.com/in/thisissakshigarg" target="_blank">
