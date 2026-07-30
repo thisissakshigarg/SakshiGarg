@@ -74,73 +74,277 @@ I'm an MBA graduate passionate about **Digital Marketing**, **Performance Market
 
 # 💼 Experience
 
-## Digital Marketing Intern
+## 🚀 Digital Marketing Intern
 
-**Aroma Infotech**
+### Aroma Infotech
 
-- Developed responsive WordPress websites
-- Executed On-Page SEO
-- Conducted Keyword Research
-- Assisted in Performance Marketing Analysis
-- Improved Conversion Optimization
-- Prepared Google Analytics Reports
+📅 Internship
 
-### Marketing Intern
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Plasmid**
+🔹 Developed responsive WordPress websites
 
-- Planned Marketing Campaigns
-- Conducted Competitor Research
-- Created Social Media Content
-- Generated Performance Reports
-- Performed Market Research
+🔹 Executed On-Page SEO
+
+🔹 Conducted Keyword Research
+
+🔹 Assisted in Performance Marketing
+
+🔹 Conversion Optimization
+
+🔹 Google Analytics Reporting
+
+🔹 Improved website performance through SEO best practices
+
+---
+
+## 📈 Marketing Intern
+
+### Plasmid
+
+📅 Internship
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔹 Marketing Campaign Planning
+
+🔹 Competitor Research
+
+🔹 Social Media Marketing
+
+🔹 Market Research
+
+🔹 Performance Reporting
+
+🔹 Brand Promotion
+
+🔹 Consumer Insights
 
 ---
 
 # 📂 Featured Project
 
-## 📊 Power BI Sales Dashboard
+<h2 align="center">📊 Power BI Sales Dashboard</h2>
 
-Interactive dashboard built using **Power BI** to analyze:
+<p align="center">
+<a href="https://github.com/thisissakshigarg/Power-BI-Sales-Dashboard">
+<img src="dashboard.png" width="900" alt="Power BI Dashboard"/>
+</a>
+</p>
 
-- Revenue
-- Profit
-- Customer Trends
-- Sales KPIs
-- Dynamic Filters
+<p align="center">
+<i>Click the image to view the complete repository.</i>
+</p>
 
-**Tools Used**
+---
 
-`Power BI` • `Power Query` • `DAX` • `Excel`
+## 🚀 Project Overview
 
-🔗 **Repository**
+Developed an interactive **Power BI Sales Dashboard** to transform raw sales data into meaningful business insights. The dashboard enables decision-makers to monitor KPIs, analyze customer behavior, identify sales trends, and evaluate overall business performance through dynamic visualizations.
 
-[Power BI Sales Dashboard](https://github.com/thisissakshigarg/Power-BI-Sales-Dashboard)
+---
+
+## ✨ Key Features
+
+✅ Revenue & Profit Analysis
+
+✅ Sales Performance Dashboard
+
+✅ Customer Insights
+
+✅ Product-wise Sales Analysis
+
+✅ Region-wise Performance Tracking
+
+✅ Dynamic Filters & Slicers
+
+✅ Interactive KPI Cards
+
+✅ Business Trend Visualization
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-2F80ED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+---
+
+## 📈 Business Insights Generated
+
+- Identified top-performing products.
+- Analyzed monthly sales trends.
+- Compared regional performance.
+- Evaluated revenue and profitability.
+- Monitored customer purchasing patterns.
+- Created an executive-level dashboard for business reporting.
+
+---
+
+## 🔗 Project Repository
+
+<p align="center">
+
+<a href="https://github.com/thisissakshigarg/Power-BI-Sales-Dashboard">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
 
 ---
 
 # 🏆 Certifications
 
-- Digital Marketing — SWAYAM
-- Professional Digital Marketing — Aroma Institute
-- AI & Digital Marketing Trends — LinkedIn Learning
-- Digital Productivity with AI — UNICEF
-- Tableau & Power BI
-- Advanced Excel for Business Intelligence
+<p align="center">
+
+<a href="images/certificates/xyz1.jpg">
+<img src="images/certificates/xyz1.jpg" width="320" alt="Certificate 1"/>
+</a>
+
+<a href="images/certificates/xyz2.jpg">
+<img src="images/certificates/xyz2.jpg" width="320" alt="Certificate 2"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="images/certificates/xyz3.jpg">
+<img src="images/certificates/xyz3.jpg" width="320" alt="Certificate 3"/>
+</a>
+
+<a href="images/certificates/xyz4.jpg">
+<img src="images/certificates/xyz4.jpg" width="320" alt="Certificate 4"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="images/certificates/xyz5.jpg">
+<img src="images/certificates/xyz5.jpg" width="320" alt="Certificate 5"/>
+</a>
+
+<a href="images/certificates/xyz6.jpg">
+<img src="images/certificates/xyz6.jpg" width="320" alt="Certificate 6"/>
+</a>
+
+</p>
+
+<p align="center">
+
+⭐ Click any certificate to view it in full resolution.
+
+</p>
 
 ---
 
 # 🎓 Education
 
-## MBA
+<table>
 
-**Marketing & Business Analytics**
+<tr>
 
-Panipat Institute of Engineering & Technology
+<td width="50%" valign="top">
 
-### B.Com
+## 🎓 Master of Business Administration
 
-Kurukshetra University
+### Marketing & Business Analytics
+
+🏛️ **Panipat Institute of Engineering & Technology**
+
+📍 Kurukshetra University
+
+📅 **2024 – 2026** 
+
+---
+
+### 📚 Relevant Coursework
+
+- Digital Marketing
+- Marketing Analytics
+- Business Analytics
+- Consumer Behaviour
+- Strategic Management
+- Predictive Analytics
+- Business Intelligence
+- Data Visualization
+
+---
+
+### 🛠 Skills Developed
+
+✔ Digital Marketing
+
+✔ Marketing Strategy
+
+✔ Performance Marketing
+
+✔ Business Analytics
+
+✔ Power BI
+
+✔ Data Visualization
+
+✔ Excel & Reporting
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎓 Bachelor of Commerce
+
+🏛️ **Kurukshetra University**
+
+📅 **2021 – 2024** 
+
+---
+
+### 📚 Core Subjects
+
+- Financial Accounting
+- Business Economics
+- Business Statistics
+- Marketing Management
+- Corporate Finance
+- Income Tax
+- Human Resource Management
+
+---
+
+### 💡 Key Learnings
+
+✔ Financial Analysis
+
+✔ Marketing Fundamentals
+
+✔ Business Communication
+
+✔ Problem Solving
+
+✔ Analytical Thinking
+
+✔ Team Collaboration
+
+✔ Presentation Skills
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -149,7 +353,7 @@ Kurukshetra University
 <p align="center">
 
 <a href="mailto:thisissakshigarg@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-thisissakshigarg@gmail.com%20-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="tel:+919729723050">
