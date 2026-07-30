@@ -14,17 +14,61 @@ I'm an MBA graduate passionate about **Digital Marketing**, **Performance Market
 
 # 🚀 Skills
 
-### 📈 Digital Marketing
+## 📈 Digital Marketing
 
-`SEO` • `Keyword Research` • `Google Ads` • `Meta Ads` • `Performance Marketing` • `Email Marketing` • `Google Analytics` • `WordPress` • `Shopify`
+<p>
 
-### 📊 Analytics
+<img src="https://img.shields.io/badge/SEO-E3F2FD?style=for-the-badge&logo=google&logoColor=4285F4"/>
 
-`Power BI` • `Tableau` • `Python` • `Advanced Excel` • `Data Visualization` • `DAX` • `Power Query`
+<img src="https://img.shields.io/badge/Keyword%20Research-E3F2FD?style=for-the-badge"/>
 
-### 🎨 Design
+<img src="https://img.shields.io/badge/Google%20Ads-E3F2FD?style=for-the-badge&logo=googleads&logoColor=4285F4"/>
 
-`Figma` • `Canva` • `Responsive Web Design`
+<img src="https://img.shields.io/badge/Meta%20Ads-E3F2FD?style=for-the-badge&logo=meta&logoColor=0866FF"/>
+
+<img src="https://img.shields.io/badge/Performance%20Marketing-E3F2FD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Email%20Marketing-E3F2FD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20Analytics-E3F2FD?style=for-the-badge&logo=googleanalytics&logoColor=E37400"/>
+
+<img src="https://img.shields.io/badge/WordPress-E3F2FD?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
+
+<img src="https://img.shields.io/badge/Shopify-E3F2FD?style=for-the-badge&logo=shopify&logoColor=95BF47"/>
+
+</p>
+
+## 📊 Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-E3F2FD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Tableau-E3F2FD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-E3F2FD?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+<img src="https://img.shields.io/badge/Advanced%20Excel-E3F2FD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Visualization-E3F2FD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DAX-E3F2FD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-E3F2FD?style=for-the-badge"/>
+
+</p>
+
+## 🎨 Design
+
+<p>
+
+<img src="https://img.shields.io/badge/Figma-E3F2FD?style=for-the-badge&logo=figma"/>
+
+<img src="https://img.shields.io/badge/Canva-E3F2FD?style=for-the-badge&logo=canva"/>
+
+<img src="https://img.shields.io/badge/Responsive%20Design-E3F2FD?style=for-the-badge"/>
+
+</p>
 
 ---
 
