@@ -196,8 +196,8 @@ Developed an interactive **Power BI Sales Dashboard** to transform raw sales dat
 
 <p align="center">
 
-<a href=".Professional Digital Marketing Enpowerment Course.jpg">
-<img src="images/certificates/xyz1.jpg" width="320" alt="Certificate 1"/>
+<a href="Professional Digital Marketing Enpowerment Course.jpg">
+<img src="Professional Digital Marketing Enpowerment Course.jpg" width="320" alt="Certificate 1"/>
 </a>
 
 <a href="images/certificates/xyz2.jpg">
