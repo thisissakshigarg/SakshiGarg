@@ -191,25 +191,12 @@ Developed an interactive **Power BI Sales Dashboard** to transform raw sales dat
 
 ---
 
-## 🔗 Project Repository
-
-<p align="center">
-
-<a href="https://github.com/thisissakshigarg/Power-BI-Sales-Dashboard">
-
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
-
----
 
 # 🏆 Certifications
 
 <p align="center">
 
-<a href="images/certificates/xyz1.jpg">
+<a href=".Professional Digital Marketing Enpowerment Course.jpg">
 <img src="images/certificates/xyz1.jpg" width="320" alt="Certificate 1"/>
 </a>
 
