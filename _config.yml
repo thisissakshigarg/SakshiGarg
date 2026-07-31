@@ -4,7 +4,9 @@ plugins:
   - jekyll-remote-theme
 
 title: "Sakshi Garg"
+description: "Digital Marketer • Turning data into digital growth strategies"
+logo: /pp.png
 
-description: "Digital Marketer"
-
-logo: pp.png
+# Prevents Jekyll from generating overlapping default project header links
+show_downloads: false
+google_analytics: null
